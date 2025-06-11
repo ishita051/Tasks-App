@@ -1,9 +1,5 @@
 # My Tasks App 📋
 
-**Developer:** [Your Name Here]
-
-A beautiful and functional task management mobile application built with React Native and Expo. This app helps you organize your daily tasks with local notifications, persistent storage, and an intuitive user interface.
-
 ## Features ✨
 
 ### Core Functionality
@@ -153,11 +149,6 @@ Potential improvements for future versions:
 - [ ] App persistence after closing/reopening
 - [ ] Empty state display
 - [ ] Input validation (empty tasks)
-
-### Device Testing
-- Tested on iOS simulator and Android emulator
-- Verified notification functionality
-- Confirmed data persistence across app restarts
 
 ## Troubleshooting 🔧
 
