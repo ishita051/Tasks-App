@@ -87,17 +87,6 @@ npx expo start --android
 npx expo start --web
 ```
 
-## Project Structure 📁
-
-```
-my-tasks-app/
-├── App.js              # Main application component
-├── app.json           # Expo configuration
-├── package.json       # Dependencies and scripts
-├── README.md          # This file
-└── assets/           # App icons and images
-```
-
 ## Technical Implementation 🛠️
 
 ### Key Technologies Used
@@ -255,10 +244,6 @@ If the app still won't open, try these steps in order:
    ```bash
    npx expo start --tunnel
    ```
-
-## Contributing 🤝
-
-Feel free to submit issues, feature requests, or pull requests to improve this application.
 
 ## License 📄
 
